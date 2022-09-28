@@ -5,18 +5,19 @@ CSS adalah salah satu styling language (bahasa desain), bagian dari markup langu
 - Cara menysipkan CSS kedalam HTML<br>
 Ada 3 cara yaitu :
 
-  - Inline css<br>
+  - **Inline css**<br>
   Anda dapat langsung memasukan CSS pada atribut HTML<br>
   ![tag inline css](inline-css.png)<br>
   Hasil Output inline css<br>
   ![output inline css](output-inlinecss.png)<br>
 
-  - Internal<br>
+  - **Internal**<br>
   Kita Menggunakan tag `<style>` didalam tag `<head>`<br>
   ![tag internal css](internal-css.png)
   Hasil Output di browser<br>
   ![output internal css](output-internalcss.png)<br>
-  - Eksternal<br>
+  
+  - **Eksternal**<br>
   Kita menyisipkan kedalam html dengan file terpisah, lalu memanggil nya didalam file html seperti dibawah ini<br>
   
     File HTML<br>
