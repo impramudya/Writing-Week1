@@ -17,7 +17,7 @@
 
  - P**enggunaan Algoritma dengan javascript**<br>
  Berikut ini merupakan contoh penggunaan algoritma pada javascript.<br>
- ![algoritma pada js](algoritmapadajs.png)<br>
+ ![algoritma pada js](algoritmapadajs.png)<br>g
 
 - **Pengertian Pseudocode**<br>
 Pseudocode atau kode semu dapat diartikan sebagai deskripsi dari algoritma pemrograman yang dituliskan secara sederhana dibandingkan dengan sintaksis bahasa pemrograman. Tujuannya, agar lebih mudah dibaca dan dipahami manusia.

@@ -12,7 +12,7 @@ Shell secara harfiah sendiri adalah program yang digunakan untuk berkomunikasi a
 Tempat dimana user dapat mengetikan atau memberi perintah.
 
 - **File System Structure**<br>
-File System Structur merupakan cara untuk mengatur bagaiman data disimpan didalam sistem.
+File System Structur merupakan cara untuk mengatur bagaimana data disimpan didalam sistem.
 
 
 
