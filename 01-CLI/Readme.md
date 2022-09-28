@@ -13,7 +13,3 @@ Tempat dimana user dapat mengetikan atau memberi perintah.
 
 - **File System Structure**<br>
 File System Structur merupakan cara untuk mengatur bagaimana data disimpan didalam sistem.
-
-
-
-

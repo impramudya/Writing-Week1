@@ -4,9 +4,8 @@
 - **Kerangka HTML**<br>
 Disetiap tag didalam program HTML selalu ada pembuka dan penutup. Contohnya tag `<head>` akan ditutup dengan tag `</head>`. Sintak diatas biasa disebut dengan kerangka bahasa pemrograman HTML. Didalam website selalu ada title untuk tiap-tiap web, untuk memasukkan title didalam web kamu harus mengetikkan diantara tag `<tittle>` ... `</tittle>` (titik-titik itu dapat diisikan dengan nama website kamu atau yang lainnya).
 
-Untuk memasukkan konten-konten, kamu dapat memasukkannya atau mengetikkannya didalam program tepat diantara tag `<body>` ... `</body>` (Ganti titik-titik dengan konten) 
-![KerangkaHTML](kerangka-HTML.png)
-
+Untuk memasukkan konten-konten, kamu dapat memasukkannya atau mengetikkannya didalam program tepat diantara tag `<body>` ... `</body>` (Ganti titik-titik dengan konten)<br>
+![KerangkaHTML](kerangka-HTML.png)<br>
 - **Contoh tag HTML**<br>
   - **Tag untuk membuat tulisan dengan link** <br>
   ![Tag Link](taglink.png)<br>
